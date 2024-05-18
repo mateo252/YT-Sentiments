@@ -1,0 +1,9 @@
+pandas==2.2.2
+google-api-python-client==2.129.0
+streamlit==1.34.0
+transformers==4.40.2
+matplotlib==3.8.4
+torch==2.3.0
+emoji==2.11.1
+scipy==1.13.0
+streamlit-extras==0.4.2
